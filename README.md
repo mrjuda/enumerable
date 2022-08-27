@@ -1,6 +1,6 @@
 # Enumerable
 ## 📑 Project description
-
+(v1.1)
 Create your own Enumerable
 
 ## 🛠 Built with
